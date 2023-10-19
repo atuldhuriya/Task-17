@@ -1,0 +1,299 @@
+.head{
+    text-align: center;
+    background-image: url('semrush-images/bg-desktop.svg');
+    width: 100%;
+    /* background-position: center; */
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+}
+.LO{
+    margin-top: 20px;
+}
+atul{
+   color: yellow; 
+}
+.text{
+    font-size: 40px;
+    color: white;
+}
+.text-1{
+    color: white;
+}
+.bot{
+    height: 50px;
+    width: 280px;
+    border-radius: 17px;
+    background-color: orangered;
+    color: white;
+}
+.get{
+    display: grid;
+    grid-template-columns: 38% 10% 45%;
+    margin-top: 20px;
+    margin-left: 145px;
+}
+.get-1, .get-3{
+    height: 3px;
+    background-color: white;
+
+}
+.get-1{
+    padding-left: 8px;
+}
+.get-3{
+    padding-right: 10px;
+    margin-right: 56px;
+}
+.get-2{
+    margin-top: -23px;
+    color: white;
+}
+.one{
+    margin-left: -86px;
+    margin-top: -33px;
+    font-size: 19px;
+    }
+ol li{
+    display: inline-block;
+    margin: 32px 33px 37px;
+    color: white;
+}
+.two{
+    /* border: 2px solid black; */
+    width: 100%;
+    background-color: white;
+}
+.two-1{
+    text-align: center;
+    font-size: 43px;
+}
+.two-2{
+    display: flex;
+    /* border: 2px solid red; */
+    max-width: 80%;
+    margin-top: -16px;
+    margin-left: 122px;
+    box-shadow: 0px 0px 30px black;
+}
+.two-3{
+    margin: 21px -7px;
+    margin-left: 71px;
+}
+.two-4{
+    margin-top: 6px;
+  text-align: center;
+}
+.two-5{
+    color: blue;
+}
+.two-6{
+    color: grey;
+}
+
+.two-7{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    max-width: 80%;
+    margin-left: 122px;
+    /* border: 2px solid blue; */
+    box-shadow: 4px 7px 20px 0px black;
+}
+.two-8{
+    margin-top: 6px;
+  text-align: center;
+}
+.two-9{
+    margin: 21px -7px;
+    margin-left: 71px;
+}
+.row-1{
+    /* border: 2px solid red; */
+    width: 100%;
+    background-color: white;
+}
+.row-2{
+    /* border: 2px solid black; */
+    background-color: white;
+    width: 100%;
+    overflow: hidden;
+}
+.row-2-1{
+    width: 400px;
+    margin-top: 37px;
+    margin-left: 161px;
+}
+.row-1-1{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.row-1-2{
+    margin-left: 20px;
+}
+.row-1-3{
+    height: 39px;
+    width: 109px;
+    margin-top: 7px;
+    margin-left: 24px;
+    border-radius: 6px;
+    color: white;
+    background-color: orangered;
+}
+.row-2-2{
+    height: 154px;
+    width: 2px;
+    box-shadow: aqua -6px 0px 283px 92px;
+    margin-top: -114px;
+    margin-left: 1020px;
+    /* position: relative; */
+    /* position: absolute; */
+    border-radius: 148px;
+
+}
+.three{
+    /* border: 2px solid red; */
+    width: 100%;
+    margin-top: 30px;
+}
+.three-1{
+    text-align: center;
+    font-size: 39px;
+}
+.three-2{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    /* border: 2px solid yellow; */
+}
+
+.three-2-2{
+    text-align: center;
+    position: relative;
+}
+.three-2-3{
+    text-align: center;
+    margin-top: -8px;
+}
+.three-2-4{
+    text-align: center;
+    margin-top: -17px;
+    font-size: 18px;
+}
+.t-1{
+    text-align: center;
+}
+.im{
+    margin-top: 20px;
+    margin-left: 198px;
+    position: relative;
+    top: 56px;
+}
+.four{
+    max-width: 80%;
+    margin-left: 122px;
+    /* border: 2px solid navy; */
+    background-color: rgb(105, 105, 235);
+    margin-top: 35px;
+}
+.four-1{
+    display:grid;
+    grid-template-columns: repeat(3, auto);
+    margin-top: 26px;
+    /* border: 2px solid red; */
+}
+.four-2{
+    margin-left: 218px;
+}
+.four-3{
+    text-align: center;
+    margin-top: 48px;
+}
+.four-4{
+    margin-left: 467px;
+    height: 55px;
+}
+.four-5{
+    margin-left: 392px;
+}
+.four-6{
+    margin-left: 450px;
+}
+.five{
+    /* border: 2px solid black; */
+    width: 100%;
+    margin-top: 30px;
+}
+.five-1{
+    text-align: center;
+}
+.five-2{
+    text-align: center;
+}
+.five-3{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    /* border: 2px solid red; */
+    max-width: 80%;
+    margin-top: 44px;
+    margin-bottom: 70px;
+    margin-left: 122px;
+}
+.five-4{
+    /* border: 2px solid blue; */
+    width: 100%;
+}
+.five-5{
+    width: 175px;
+    margin-left: 75px;
+}
+.five-6{
+    text-align: center;
+}
+.six{
+    width: 100%;
+    background-color: rgb(100, 11, 210);
+    margin-top: 30px;
+   /* border: 2px solid red; */
+}
+.six-1{
+    text-align: center;
+    color: white;
+}
+.six-2{
+    text-align: center;
+    color: white;
+}
+.six-3{
+    height: 46px;
+    width: 250px;
+    border-radius: 15px;
+    background-color: orangered;
+    color: white;
+    margin-top: 10px;
+    margin-left: 497px;
+    margin-bottom: 10px;
+}
+.six-4{
+    max-width: 80%;
+    margin-top: 50px;
+    margin-left: 122px;
+}
+.six-5{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    /* border: 2px solid blue; */
+    max-width: 80%;
+    margin-top: 44px;
+    margin-left: 122px;
+}
+
+.six-7{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.six-8{
+    color: white;
+    margin-left: 20px;
+}
+.six-9{
+    color: grey;
+    margin-left: 20px;
+}
